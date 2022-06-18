@@ -1,5 +1,5 @@
 function abc() {
-  var loc1 = 3;
+  var loc1 = Math.floor(Math.random() * 5);
   var loc2 = 4;
   var loc3 = 5;
   var guess;
